@@ -4238,6 +4238,7 @@ input, select, textarea {
 					display: -webkit-flex;
 					display: -ms-flex;
 					display: flex;
+					flex-direction: row;
 					-moz-align-items: center;
 					-webkit-align-items: center;
 					-ms-align-items: center;
@@ -4688,3 +4689,4 @@ input, select, textarea {
 		}
 
 	}
+	
