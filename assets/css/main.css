@@ -2637,6 +2637,8 @@ input, select, textarea {
 			display: block;
 			margin: 4rem 0;
 			width: 100%;
+		
+			
 		}
 
 			.image.main:first-child {
@@ -3855,7 +3857,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > * {
-				width: 50%;
+				width: 40%;
 			}
 
 			#main > .posts > * {
